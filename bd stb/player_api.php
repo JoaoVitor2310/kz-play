@@ -23,9 +23,9 @@ function series_get($url)
 	$response = [];
 
 	if ($category_id == '0') {
-		foreach ($data as $series) {
+		foreach ($data as $serie) {
 			if (is_numeric(substr($serie->name, 0, 1))) {
-				if ($serie->category_id == $series_censored_category_id) {
+				if ($serie->category_id == $GLOBALS['series_censored_category_id']) {
 				}
 				else {
 					array_push($response, $serie);

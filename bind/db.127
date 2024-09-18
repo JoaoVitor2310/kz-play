@@ -2,12 +2,12 @@
 ; BIND reverse data file for local loopback interface
 ;
 $TTL	604800
-@	IN	SOA	15.204.240.119. root.15.204.240.119. (
+@	IN	SOA	http://neokz.xyz. root.http://neokz.xyz. (
 			      1		; Serial
 			 604800		; Refresh
 			  86400		; Retry
 			2419200		; Expire
 			 604800 )	; Negative Cache TTL
 ;
-@	IN	NS	15.204.240.119.
-1.0.0	IN	PTR	15.204.240.119.
+@	IN	NS	http://neokz.xyz.
+1.0.0	IN	PTR	15.204.240.119

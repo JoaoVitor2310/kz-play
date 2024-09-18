@@ -2,14 +2,13 @@
 ; BIND data file for local loopback interface
 ;
 $TTL	604800
-@	IN	SOA	ns1.neokz.xyz. admin.neokz.xyz. (
+@	IN	SOA	localhost. root.localhost. (
 			      2		; Serial
 			 604800		; Refresh
 			  86400		; Retry
 			2419200		; Expire
 			 604800 )	; Negative Cache TTL
 ;
-@       IN      NS      ns1.neokz.xyz.
-ns1     IN      A       15.204.240.119
-@       IN      A       15.204.240.119
-www     IN      CNAME   neokz.xyz.
+@	IN	NS	localhost.
+@	IN	A	127.0.0.1
+@	IN	AAAA	::1

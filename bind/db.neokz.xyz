@@ -1,0 +1,19 @@
+$TTL 604800
+@       IN      SOA     ns1.neokz.xyz. admin.neokz.xyz. (
+                        2024091401 ; Serial (deve ser atualizado sempre que fizer alterações)
+                        604800     ; Refresh
+                        86400      ; Retry
+                        2419200    ; Expire
+                        604800 )   ; Negative Cache TTL
+;
+; Servidores de Nome (NS)
+@       IN      NS      ns1.neokz.xyz.
+
+; Registro A para o servidor de nome (ns1)
+ns1     IN      A       15.204.240.119
+
+; Registro A para o domínio (apontando o domínio raiz para o IP do servidor)
+@       IN      A       15.204.240.119
+
+; Registro CNAME para o subdomínio www (opcional)
+www     IN      CNAME   neokz.xyz.

@@ -9,7 +9,7 @@
 }
 
 [class~=sidenav] [class~=bg-active] {
-	background-color: #cccc00;
+	background-color: #2afa00;
 }
 
 [class~=sidenav] [class~=bg-active] {
@@ -119,7 +119,7 @@
 }
 
 [class~=modal-f] [class~=modal-assistir] a:focus {
-	background-color: #cccc00;
+	background-color: #2afa00;
 	color: white;
 }
 
@@ -397,7 +397,7 @@
 }
 
 [class~=modal-l] [class~=modal-usuario]:focus {
-	border-left-color: #cccc00;
+	border-left-color: #2afa00;
 }
 
 [class~=sidenav] {
@@ -409,11 +409,11 @@
 }
 
 [class~=modal-l] [class~=modal-usuario]:focus {
-	border-bottom-color: #cccc00;
+	border-bottom-color: #2afa00;
 }
 
 [class~=modal-l] [class~=modal-usuario]:focus {
-	border-right-color: #cccc00;
+	border-right-color: #2afa00;
 }
 
 .navbar a {
@@ -433,7 +433,7 @@
 }
 
 [class~=modal-l] [class~=modal-usuario]:focus {
-	border-top-color: #cccc00;
+	border-top-color: #2afa00;
 }
 
 #sidebar,
@@ -453,7 +453,7 @@
 }
 
 [class~=modal-l] [class~=modal-login] a:focus {
-	background-color: #cccc00;
+	background-color: #2afa00;
 	color: white;
 }
 
@@ -499,12 +499,12 @@
 }
 
 [class~=modal-l] [class~=modal-usuario]:focus {
-	box-shadow: #cccc00 0in 0in .3125pc;
+	box-shadow: #2afa00 0in 0in .3125pc;
 }
 
 [class~=sidenav] a:focus,
 [class~=modal-l] [class~=modal-usuario]:focus {
-	color: #cccc00;
+	color: #2afa00;
 }
 
 [class~=navbar] a[class~=rgb(73, 73, 73)] {
@@ -712,7 +712,7 @@ html {
 }
 
 [class~=modal-l] [class~=modal-senha]:focus {
-	border-left-color: #cccc00;
+	border-left-color: #2afa00;
 }
 
 #icons div {
@@ -732,7 +732,7 @@ html {
 }
 
 [class~=modal-l] [class~=modal-senha]:focus {
-	border-right-color: #cccc00;
+	border-right-color: #2afa00;
 }
 
 [class~=modal-f] [class~=modal-genero],
@@ -770,7 +770,7 @@ html {
 }
 
 [class~=modal-l] [class~=modal-senha]:focus {
-	border-top-color: #cccc00;
+	border-top-color: #2afa00;
 }
 
 #sidebar.focused #icons {
@@ -798,11 +798,11 @@ html {
 }
 
 [class~=modal-l] [class~=modal-senha]:focus {
-	box-shadow: #cccc00 0in 0in .3125pc;
+	box-shadow: #2afa00 0in 0in .3125pc;
 }
 
 [class~=modal-l] [class~=modal-senha]:focus {
-	color: #cccc00;
+	color: #2afa00;
 }
 
 [class~=modal-f] [class~=modal-diretor-elenco] {
@@ -1396,11 +1396,11 @@ html {
 }
 
 [class~=config-meio] [class~=config-box] [class~=config-item]:focus {
-	background-color: #cccc00;
+	background-color: #2afa00;
 }
 
 [class~=modal-d] [class~=modal-detectar] a:focus {
-	background-color: #cccc00;
+	background-color: #2afa00;
 }
 
 html {
@@ -1480,7 +1480,7 @@ html {
 }
 
 [class~=modal-d] [class~=modal-texto]:focus {
-	border-left-color: #cccc00;
+	border-left-color: #2afa00;
 }
 
 [class~=loading-ajax-video-boxed] {
@@ -1508,7 +1508,7 @@ html {
 }
 
 [class~=modal-d] [class~=modal-texto]:focus {
-	border-bottom-color: #cccc00;
+	border-bottom-color: #2afa00;
 }
 
 [class~=loading-ajax-video-boxed] {
@@ -1583,7 +1583,7 @@ html,
 }
 
 [class~=modal-d] [class~=modal-texto]:focus {
-	border-right-color: #cccc00;
+	border-right-color: #2afa00;
 }
 
 [class~=modal-l] [class~=modal-content] {
@@ -1599,7 +1599,7 @@ html,
 }
 
 [class~=modal-d] [class~=modal-texto]:focus {
-	border-top-color: #cccc00;
+	border-top-color: #2afa00;
 }
 
 [class~=loading-ajax-video-boxed] {
@@ -1663,7 +1663,7 @@ html,
 }
 
 [class~=modal-d] [class~=modal-texto]:focus {
-	box-shadow: #cccc00 0pc 0pc 5px;
+	box-shadow: #2afa00 0pc 0pc 5px;
 }
 
 #icons {
@@ -1671,7 +1671,7 @@ html,
 }
 
 [class~=modal-d] [class~=modal-texto]:focus {
-	color: #cccc00;
+	color: #2afa00;
 }
 
 [class~=modal-l] [class~=modal-bg] {
@@ -2262,15 +2262,15 @@ body {
 }
 
 [class~=modal-l] [class~=bg-active] {
-	border-left-color: #cccc00;
+	border-left-color: #2afa00;
 }
 
 [class~=modal-l] [class~=bg-active] {
-	border-bottom-color: #cccc00;
+	border-bottom-color: #2afa00;
 }
 
 [class~=modal-l] [class~=bg-active] {
-	border-right-color: #cccc00;
+	border-right-color: #2afa00;
 }
 
 body {
@@ -2278,7 +2278,7 @@ body {
 }
 
 [class~=modal-l] [class~=bg-active] {
-	border-top-color: #cccc00;
+	border-top-color: #2afa00;
 }
 
 .video-player-bottom .video-play-pause:focus,
@@ -2293,7 +2293,7 @@ body {
 
 .video-player-bottom .video-play-pause:focus,
 [class~=video-player-top] [class~=video-back]:focus {
-	background-color: #cccc00;
+	background-color: #2afa00;
 }
 
 [class~=modal-l] [class~=bg-active] {
@@ -2330,11 +2330,11 @@ body {
 }
 
 [class~=modal-l] [class~=bg-active] {
-	box-shadow: #cccc00 0in 0in .3125pc;
+	box-shadow: #2afa00 0in 0in .3125pc;
 }
 
 [class~=modal-l] [class~=bg-active] {
-	color: #cccc00;
+	color: #2afa00;
 }
 
 .modal-l .modal-error {
@@ -2380,7 +2380,7 @@ body {
 }
 
 [class~=config-meio] [class~=btn-logoff] a:focus {
-	background-color: #cccc00;
+	background-color: #2afa00;
 	color: black;
 }
 
@@ -2676,7 +2676,7 @@ div[class~=jQKeyboardContainer] {
 }
 
 [class~=meio] [class~=item-home]:focus {
-	border-left-color: #cccc00;
+	border-left-color: #2afa00;
 }
 
 [class~=modal-d],
@@ -2694,11 +2694,11 @@ div[class~=jQKeyboardContainer] {
 }
 
 [class~=meio] [class~=item-home]:focus {
-	border-bottom-color: #cccc00;
+	border-bottom-color: #2afa00;
 }
 
 [class~=meio] [class~=item-home]:focus {
-	border-right-color: #cccc00;
+	border-right-color: #2afa00;
 }
 
 .modal-d .modal-detectar a {
@@ -2714,7 +2714,7 @@ div[class~=jQKeyboardContainer] {
 }
 
 [class~=meio] [class~=item-home]:focus {
-	border-top-color: #cccc00;
+	border-top-color: #2afa00;
 }
 
 [class~=modal-d] {
@@ -2723,7 +2723,7 @@ div[class~=jQKeyboardContainer] {
 
 [class~=meio] [class~=item-home]:focus,
 span[class~=modal-close]:focus {
-	color: #cccc00;
+	color: #2afa00;
 }
 
 [class~=video-info] [class~=video-title] span {
@@ -2797,7 +2797,7 @@ div[class~=jQKeyboardContainer] {
 }
 
 [class~=meio] [class~=item-home]:focus {
-	box-shadow: #cccc00 0pt 0pt 9pt;
+	box-shadow: #2afa00 0pt 0pt 9pt;
 }
 
 [class~=modal-d] [class~=modal-texto] {
@@ -2965,7 +2965,7 @@ div[class~=jQKeyboardContainer] {
 }
 
 [class~=modal-s] [class~=modal-temp] [class~=modal-ep] [class~=ep-title]:focus {
-	color: #cccc00;
+	color: #2afa00;
 }
 
 [class~=modal-d] [class~=modal-texto] {
@@ -3279,7 +3279,7 @@ div[class~=jQKeyboardContainer] {
 }
 
 [class~=modal-s] [class~=modal-temp] [class~=modal-ep] [class~=ep-title][class~=bg-active] {
-	background-color: #cccc00;
+	background-color: #2afa00;
 }
 
 div.jQKeyboardRow {
@@ -3307,7 +3307,7 @@ div.jQKeyboardRow {
 }
 
 [class~=video-info] [class~=video-progress] progress::-webkit-progress-value {
-	background-color: #cccc00 !important;
+	background-color: #2afa00 !important;
 }
 
 [class~=navbar] [class~=search] {
@@ -3752,7 +3752,7 @@ button[class~=jQKeyboardBtn] {
 }
 
 [class~=video-info] [class~=video-progress] progress::-moz-progress-bar {
-	background-color: #cccc00 !important;
+	background-color: #2afa00 !important;
 }
 
 [class~=filme-a-meio] {
@@ -3817,7 +3817,7 @@ button[class~=jQKeyboardBtn] {
 }
 
 [class~=meio] [class~=item]:focus {
-	border-left-color: #cccc00;
+	border-left-color: #2afa00;
 }
 
 [class~=filme-a-meio] {
@@ -3825,7 +3825,7 @@ button[class~=jQKeyboardBtn] {
 }
 
 [class~=meio] [class~=item]:focus {
-	border-bottom-color: #cccc00;
+	border-bottom-color: #2afa00;
 }
 
 [class~=config-meio] [class~=btn-logoff],
@@ -3834,7 +3834,7 @@ button[class~=jQKeyboardBtn] {
 }
 
 [class~=meio] [class~=item]:focus {
-	border-right-color: #cccc00;
+	border-right-color: #2afa00;
 }
 
 [class~=config-meio] [class~=config-box] {
@@ -3850,7 +3850,7 @@ body {
 }
 
 [class~=meio] [class~=item]:focus {
-	border-top-color: #cccc00;
+	border-top-color: #2afa00;
 }
 
 [class~=config-meio] [class~=config-box] {
@@ -3890,11 +3890,11 @@ button[class~=jQKeyboardBtn] {
 }
 
 [class~=meio] [class~=item]:focus {
-	box-shadow: #cccc00 0pt 0in .125in;
+	box-shadow: #2afa00 0pt 0in .125in;
 }
 
 [class~=meio] [class~=item]:focus {
-	color: #cccc00;
+	color: #2afa00;
 }
 
 [class~=config-box-info] [class~=config-info2] {
@@ -4878,7 +4878,7 @@ textarea[class~=jQKeyboard][class~=focus] {
 
 button[class~=jQKeyboardBtn]:hover,
 button[class~=jQKeyboardBtn]:focus {
-	background: #cccc00;
+	background: #2afa00;
 	color: rgb(17, 17, 17);
 }
 
@@ -4900,7 +4900,7 @@ button[class~=jQKeyboardBtn]:focus {
 
 button[class~=jQKeyboardBtn][class~=shift-active],
 button[class~=jQKeyboardBtn]:active {
-	background: #cccc00;
+	background: #2afa00;
 }
 
 [class~=title-tv] [class~=favorited],

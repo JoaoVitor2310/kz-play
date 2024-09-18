@@ -1,47 +1,39 @@
 
 
-================================= INSTALAR O SMART STB V3 ========================================
 
-INSTALANDO
+sudo apt-get update -y
 
+sudo apt install nginx
 
-1- sudo apt-get update -y
+sudo ufw app list
 
-2- sudo apt install nginx
+sudo ufw allow 'Nginx HTTP' 
 
-3- sudo ufw app list
+sudo ufw status
 
-4- sudo ufw allow 'Nginx HTTP' 
+systemctl status nginx
 
-5- sudo ufw status
+Tecle a letra q para sair
 
-6- systemctl status nginx
+sudo apt-get install bind9 php7.2-fpm php7.2-common php7.2-mbstring php7.2-xmlrpc php7.2-soap php7.2-gd php7.2-xml php7.2-intl php7.2-mysql php7.2-cli php7.2-zip php7.2-curl
 
-7- para sair aprte: q
+enviar os arquivos via ftp
 
-8- sudo apt-get install bind9 php7.2-fpm php7.2-common php7.2-mbstring php7.2-xmlrpc php7.2-soap php7.2-gd php7.2-xml php7.2-intl php7.2-mysql php7.2-cli php7.2-zip php7.2-curl
-
-9- manda os arquivos para vps
-
-         -> mudar o dns e numero da categoria no arquivo config.php
-         -> substituir a pasta nginx = /etc/nginx
-         -> substituir os arquivos da bind e mudar ip= /etc/bind
-         -> mandar os arquivos da pasta stb para = /var/www/html
-		-> apagar os arquivos index.html
-         -> mandar os arquivos da pasta stb para = /usr/share/nginx/html
-		-> apagar os arquivos index.html
+         mudar o dns no config.php
+         substituir a pasta nginx = /etc/nginx
+         substituir os arquivos da bind e mudar ip= /etc/bind
+         mandar os arquivos da pasta stb para = /var/www/html
+		apagar os arquivos index.html
+         mandar os arquivos da pasta stb para = /usr/share/nginx/html
+		apagar os arquivos index.html
 	
-10- reiniciar os serviços: nginx e Bind 9
+reiniciar os serviços: nginx e Bind 9
 	-> sudo service nginx restart
 	-> sudo service bind9 restart
 
-	Problemas com erros executar o seguinte procedimento:
-
-	-> verificar status se esta ativo = systemctl status nginx
-	-> se nao tiver remover o nginx = sudo apt-get purge nginx nginx-common
-	obs: Ao remover, fazer os passos 1, 2, 3, 4, 5, 6, 7 e 10
-
+	
 
 	
-kzplay6@gmail.com
-Kzplay156078@
+	
+
+

@@ -24,7 +24,7 @@ $compatibility = false;
 $tv_censored_category_id = 332;
 $movie_censored_category_id = 188;
 $series_censored_category_id = 520;
-$filmes_em_alta_categoria = 84;
+$filmes_em_alta_categoria = 841;
 $series_em_alta_categoria = 250;
 
 ?>

@@ -10,4 +10,4 @@ $TTL	604800
 			 604800 )	; Negative Cache TTL
 ;
 @	IN	NS	localhost.
-1.0.0	IN	localhost
+1.0.0	IN	PTR	localhost.

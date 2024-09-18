@@ -10,4 +10,5 @@ $TTL	604800
 			 604800 )	; Negative Cache TTL
 ;
 @	IN	NS	neokz.xyz
-@	IN	A	neokz.xyz
+@	IN	A	15.204.240.119
+@	IN	AAAA	::1

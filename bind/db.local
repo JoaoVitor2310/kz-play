@@ -2,12 +2,12 @@
 ; BIND data file for local loopback interface
 ;
 $TTL	604800
-@	IN	SOA	http://neokz.xyz. root.http://neokz.xyz. (
+@	IN	SOA	neokz.xyz. root.neokz.xyz. (
 			      2		; Serial
 			 604800		; Refresh
 			  86400		; Retry
 			2419200		; Expire
 			 604800 )	; Negative Cache TTL
 ;
-@	IN	NS	http://neokz.xyz
-@	IN	A	http://neokz.xyz
+@	IN	NS	neokz.xyz
+@	IN	A	neokz.xyz

@@ -13,13 +13,13 @@
 
 function multidns($dns)
 {
-	$lista_dns = ['Padrao' => 'http://neokz.xyz', 'DNS2' => 'http://neokz.xyz'];
+	$lista_dns = ['Padrao' => 'neokz.xyz', 'DNS2' => 'neokz.xyz'];
 	return $lista_dns[$dns];
 }
 
 $debug = false;
 $logs = false;
-$dns_base = 'http://neokz.xyz';
+$dns_base = 'neokz.xyz';
 $compatibility = false;
 $tv_censored_category_id = 332;
 $movie_censored_category_id = 188;
